@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Henrique!
 
-<!--
-**henriqued25/henriqued25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web.
 
-Here are some ideas to get you started:
+Tenho conhecimento em **JavaScript, TypeScript, Node.js e MySQL**, com foco no desenvolvimento de aplicações e APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Principais projetos
+
+### 🌊 Alerta de Alagamentos — São Luís
+
+Projeto desenvolvido com o objetivo de criar uma solução relacionada ao monitoramento e alerta de alagamentos em São Luís.
+
+🔗 **[Alerta de Alagamentos — SLZ](https://github.com/henriqued25/Alerta-alagamentos-SLZ)**
+
+---
+
+### 🚌 ConnectIlha
+
+Projeto voltado para informações sobre transporte público e interação com usuários através de feedbacks.
+
+O projeto possui uma aplicação web e uma API responsável pelo processamento dos dados.
+
+🔗 **[News and Feedback](https://github.com/henriqued25/news-and-feedback)**
+🔗 **[API ConnectIlha](https://github.com/henriqued25/api-connectilha)**
+
+**Tecnologias:** `JavaScript` `Node.js` `Express.js` `MySQL`
+
+---
+
+## 📚 Conhecimentos
+
+* JavaScript
+* TypeScript
+* Node.js
+* APIs REST
+* MySQL
+* Git & GitHub
+* Desenvolvimento de aplicações web
